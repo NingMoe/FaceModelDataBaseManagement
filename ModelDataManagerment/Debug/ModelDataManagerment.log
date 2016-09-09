@@ -1,0 +1,33 @@
+﻿生成启动时间为 2016/7/19 15:13:31。
+     1>项目“F:\ModelDataManagerment\ModelDataManagerment\ModelDataManagerment.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ModelDataManagerment.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\ModelDataManagerment.res" ModelDataManagerment.rc 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\vs2010软件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\ModelDataManagerment\Debug\ModelDataManagerment.exe" /INCREMENTAL /NOLOGO libmysql.lib /MANIFEST /ManifestFile:"Debug\ModelDataManagerment.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\ModelDataManagerment\Debug\ModelDataManagerment.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\ModelDataManagerment\Debug\ModelDataManagerment.lib" /MACHINE:X86 Debug\ModelDataManagerment.res
+         Debug\ModelDataManagerment.exe.embed.manifest.res
+         Debug\CErrorLog.obj
+         Debug\CMysql.obj
+         Debug\ModelDataManagerment.obj
+         Debug\ModelDataManagermentDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ModelDataManagerment.exe.embed.manifest" /manifest Debug\ModelDataManagerment.exe.intermediate.manifest "e:\vs2010软件\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         ModelDataManagerment.vcxproj -> F:\ModelDataManagerment\Debug\ModelDataManagerment.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ModelDataManagerment.unsuccessfulbuild”。
+         正在对“Debug\ModelDataManagerment.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\ModelDataManagerment\ModelDataManagerment\ModelDataManagerment.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.74
